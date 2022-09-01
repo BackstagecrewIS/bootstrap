@@ -1,0 +1,17 @@
+section h2 {
+    text-align: center;
+}
+
+.quotes {
+    background-color: aquamarine;
+    padding: 10px;
+}
+
+.media-body {
+    background-color:black;
+    color: blanchedalmond;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 5px;
+}
